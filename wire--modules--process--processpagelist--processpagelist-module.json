@@ -1,0 +1,60 @@
+{
+    "file": "wire\/modules\/Process\/ProcessPageList\/ProcessPageList.module",
+    "textdomain": "wire--modules--Process--ProcessPageList--ProcessPageList-module",
+    "translations": {
+        "f4ec5f57bd4d31b803312d873be40da9": {
+            "text": "\u00c4ndern"
+        },
+        "ea4788705e6873b424c65e91c2846b19": {
+            "text": "Abbrechen"
+        },
+        "e0626222614bdee31951d84c64e5e9ff": {
+            "text": "Ausw\u00e4hlen"
+        },
+        "46b816f573557a53c93ac78bbcfa9493": {
+            "text": "Auswahl entfernen"
+        },
+        "d3da97e2d9aee5c8fbe03156ad051c99": {
+            "text": "Mehr"
+        },
+        "d95deddfb80310ff0d1d63013611777c": {
+            "text": "Anklicken und ziehen zum bewegen"
+        },
+        "a7e253cd8dd95da3e20daf45519a8dc2": {
+            "text": "Papierkorb"
+        },
+        "157fa6b945671169a76bc677977f368d": {
+            "text": "Angezeigter Name des Seitenfeldes"
+        },
+        "8593fb74b02478b2734e442f86507d7b": {
+            "text": "Optional k\u00f6nnen Sie diese Einstellung innerhalb eines jeden Templates \u00fcberschreiben (unter \"Erweitert\")."
+        },
+        "43da4fffe875f34908241df94ccb535b": {
+            "text": "Anzahl der Seiten welche ohne Pagination angezeigt werden"
+        },
+        "94d3f06b64640bda750ee1d7c7527fe4": {
+            "text": "Geschwindigkeit der Animation (in ms)"
+        },
+        "453420e78223c3c2ff7a28bfc3a44dde": {
+            "text": "Dies ist die Geschwindigkeit der Animation mit welcher jeder Zweig im Seitenbaum sich auf oder ab bewegt. Niedrige Werte sind schneller, aber weniger wahrnehmbar. Animation deaktivieren mit Eingabe 0."
+        },
+        "5ca370c3b4f85b5c8308b75ea46984cb": {
+            "text": "Netzwerkfehler, bitte sp\u00e4ter noch einmal versuchen"
+        },
+        "024dae797f407f0f2bd724f6301999a1": {
+            "text": "Unbekannter Fehler, bitte sp\u00e4ter noch einmal versuchen"
+        },
+        "bdfca484a650a86abab2578865834ac3": {
+            "text": "Jede Seite in einer PageList wird anhand eines Labels identifiziert, typischerweise ein Titel- oder \u00dcberschriftenfeld. Sie k\u00f6nnen festlegen welches Feld hier genutzt werden soll. Um mehrere Felder festzulegen, die Feldnamen mit einem Leerzeichen trennen oder eigenen Format-String verwenden und die Feldnamen in {Klammern} einschliessen. Falls das Feld zu einem Objekt f\u00fchrt (wie z.B. eine andere Seite) definieren Sie die Eigenschaft mit einem Punkt, z.B. anotherpage.title. Beachten Sie, wenn das festgelegte Feld zu einem leeren Wert f\u00fchrt, wird ProcessWire das Feld \"Name\" der Seite verwenden."
+        },
+        "7f46e875eed0badd2516b23657f4f320": {
+            "text": "Aktionen zu Seiten beim hovern anzeigen?"
+        },
+        "04f8c71ea1d550c45b3c987978fe56b3": {
+            "text": "Standardm\u00e4\u00dfig erscheinen Aktionen zu einer Seite nach einem Klick (zumindest im Standard-Admin-Theme). Diese Box markieren um sie stattdessen beim hovern anzuzeigen."
+        },
+        "bcf77f341a0ec5189588bdad819c9ee7": {
+            "text": "Weitere Optionen hierzu finden Sie unter der $config->pageList Einstellung in \/wire\/config.php. Sie k\u00f6nnen diese Einstellungen in die \/site\/config.php kopieren, um sie zu \u00fcberschreiben."
+        }
+    }
+}
