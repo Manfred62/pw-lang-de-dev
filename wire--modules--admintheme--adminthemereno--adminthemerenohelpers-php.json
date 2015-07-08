@@ -1,0 +1,18 @@
+{
+    "file": "wire\/modules\/AdminTheme\/AdminThemeReno\/AdminThemeRenoHelpers.php",
+    "textdomain": "wire--modules--admintheme--adminthemereno--adminthemerenohelpers-php",
+    "translations": {
+        "cce99c598cfdb9773ab041d54c3d973a": {
+            "text": "Profil"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "Ausloggen"
+        },
+        "e8209ff97e2fd1fd89a08e2dbee3673c": {
+            "text": "Support Forum"
+        },
+        "5b6cf869265c13af8566f192b4ab3d2a": {
+            "text": "Dokumentation"
+        }
+    }
+}
