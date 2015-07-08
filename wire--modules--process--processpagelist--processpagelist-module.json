@@ -55,6 +55,12 @@
         },
         "bcf77f341a0ec5189588bdad819c9ee7": {
             "text": "Weitere Optionen hierzu finden Sie unter der $config->pageList Einstellung in \/wire\/config.php. Sie k\u00f6nnen diese Einstellungen in die \/site\/config.php kopieren, um sie zu \u00fcberschreiben."
+        },
+        "eceb8bf0921f19bb3ae6972e7902c887": {
+            "text": "Standardwert ist %d."
+        },
+        "f0ebf50a114d563bc9bd51eb8df08f5a": {
+            "text": "Falls der Standardwert beibehalten wird, kann diese Einstellung auch im $config->pageList Array festgelegt werden."
         }
     }
 }
