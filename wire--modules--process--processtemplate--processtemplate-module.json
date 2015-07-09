@@ -653,9 +653,6 @@
         "ce74097d91e1181f033e39e38736dd5a": {
             "text": "Cache"
         },
-        "75b29cfc6e6beeb50a4e6b005ee2cab1": {
-            "text": "Sie k\u00f6nnen auch einen [Symbol-Name](http:\/\/fontawesome.io\/cheatsheet\/) eintragen, zum Beispiel: icon-file oder fa-file (beide Formate funktionieren)."
-        },
         "8a08c3b7f2922be4ad8e59744781b796": {
             "text": "Format des Seiten-Name"
         },
@@ -805,6 +802,12 @@
         },
         "fc5817e1bd14f3acbf2266635b0e30ed": {
             "text": "Um den Cache bei vorhandenen Variablen zu deaktivieren, einfach einen Asterisk * eingeben (empfohlen)"
+        },
+        "9a4127b29b0b6c40638af21074829f0e": {
+            "text": "Sie k\u00f6nnen auch ihr eigenes Format (und jede zus\u00e4tzliche Interpunktion\/Zeichen) verwenden durch festlegen der Feldnamen in Klammern, z.B. {name}, {categories.title}, usw."
+        },
+        "9c16eb3042fbf6c2b73a21dea122d19e": {
+            "text": "Um die Eigenschaft eines Feldes festzulegen, umschliessen Sie es mit Klammern und geben {field_name.property} ein, zum Beispiel {categories.title}."
         }
     }
 }
