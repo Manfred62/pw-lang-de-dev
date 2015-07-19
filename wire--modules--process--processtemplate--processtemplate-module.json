@@ -808,6 +808,27 @@
         },
         "9c16eb3042fbf6c2b73a21dea122d19e": {
             "text": "Um die Eigenschaft eines Feldes festzulegen, umschliessen Sie es mit Klammern und geben {field_name.property} ein, zum Beispiel {categories.title}."
+        },
+        "5124b02da7ffa5ef666dc8bde11cd10d": {
+            "text": "Entweder \/ spielt keine Rolle"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Deaktiviert"
+        },
+        "399c72ebbb8b618eeb11aab334a88369": {
+            "text": "Aktiviert (Template Cache)"
+        },
+        "6d490a96685b13339b51530ee05a7c9a": {
+            "text": "Aktiviert (ProCache, hier konfiguriert)"
+        },
+        "404deca0459b84d7308fb7c434301657": {
+            "text": "Seiten, welche dieses Template nutzen, werden zurzeit in ProCache gecached, aber direkt \u00fcber ProCache konfiguriert. Um die ProCache Einstellungen f\u00fcr dieses Template zu konfigurieren, die obere ProCache Option ausw\u00e4hlen."
+        },
+        "fb72654fb51cb493c6d0123505d9e596": {
+            "text": "Sollen URLs mit Seitennummern einen Schr\u00e4gstrich haben?"
+        },
+        "bbd5238aeedba403b7977656d2f132fc": {
+            "text": "Sollen URL-Segmente mit einem Schr\u00e4gstrich enden?"
         }
     }
 }
