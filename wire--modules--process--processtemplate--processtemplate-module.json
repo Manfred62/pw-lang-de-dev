@@ -368,9 +368,6 @@
         "225237dc381e612f4bbf08dd75efdb71": {
             "text": "Auf eine andere URL umleiten"
         },
-        "6b01f3d73dbcea918c2e08424f41c87c": {
-            "text": "Geben Sie die URL an, auf die umgeleitet werden soll, falls ein Benutzer keine Zugriffsrechte hat."
-        },
         "b12715241d6f9d36629e189651930f08": {
             "text": "Dieses Feld ist nur relevant, falls Sie oben \"Auf eine andere URL umleiten\" gew\u00e4hlt haben."
         },
@@ -829,6 +826,15 @@
         },
         "bbd5238aeedba403b7977656d2f132fc": {
             "text": "Sollen URL-Segmente mit einem Schr\u00e4gstrich enden?"
+        },
+        "4a49f761ce504d9c073de20eba6ca069": {
+            "text": "Optional das Label f\u00fcr die Eigenschaft vom \"Name\" (Standard) \u00fcberschreiben."
+        },
+        "57f844c4a5ccb54207fa22705e7729a3": {
+            "text": "Geben Sie die URL oder Seiten-ID an, auf die umgeleitet werden soll, falls ein Benutzer keine Zugriffsrechte hat."
+        },
+        "13138fdee141d39a065f3fe82c0e0676": {
+            "text": "Label f\u00fcr Eigenschaft des Seitenname"
         }
     }
 }

@@ -1,0 +1,42 @@
+{
+    "file": "wire\/modules\/Process\/ProcessUser\/ProcessUser.module",
+    "textdomain": "wire--modules--process--processuser--processuser-module",
+    "translations": {
+        "1dae534355f564549697cc7da0eee7e7": {
+            "text": "Sie d\u00fcrfen sich selbst die Rolle superuser nicht entziehen"
+        },
+        "a756ba771ff16a33ad921b8f017a7161": {
+            "text": "Sie d\u00fcrfen die Rolle superuser nicht zuweisen"
+        },
+        "f9aae5fda8d810a29f12d1e61b4ab25f": {
+            "text": "Benutzer"
+        },
+        "242e1deb2d082e524a63f255f9f08c11": {
+            "text": "System-Benutzer verwalten"
+        },
+        "a5cd3ed116608dac017f14c046ea56bf": {
+            "text": "Benutzerrollen"
+        },
+        "5dee1c6493112af5676354d6c4243fbe": {
+            "text": "Der Benutzer erbt die der jeweiligen Rolle zugewiesenen Berechtigungen. Sie k\u00f6nnen einem Benutzer mehrere Benutzerrollen zuweisen. Beim Zugriff auf eine Seite erbt der Benutzer nur die Berechtigungen der Rollen, welche dem Template der Seiten zugewiesen sind."
+        },
+        "4b99fa96a7caeeafc646d0f0a059ea4d": {
+            "text": "%d Benutzer"
+        },
+        "8103e74ea76ab74a0eabfc5d09e6588a": {
+            "text": "%d Benutzer"
+        },
+        "4d4587e01b893874091ed2bcb940c2a8": {
+            "text": "Sie d\u00fcrfen diese Rolle nicht \u00e4ndern"
+        },
+        "903c654a1a01b07cf8dd1567b1b99b3a": {
+            "text": "Sie sind nicht berechtigt diese Rolle zu entfernen: %s"
+        },
+        "5374d65ce11cc92d3c142cc0249fde0a": {
+            "text": "Sie sind nicht berechtigt diese Rolle hinzuzuf\u00fcgen: %s"
+        },
+        "ba0bf134511b54d35d023da28eb75e39": {
+            "text": "Sie haben Rollen entfernt, welche nun verhindern, diesen Benutzer zu bearbeiten. Rollen wurden wiederhergestellt."
+        }
+    }
+}
