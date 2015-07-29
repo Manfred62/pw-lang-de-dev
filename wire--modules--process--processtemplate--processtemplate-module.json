@@ -557,9 +557,6 @@
         "0f12f2b440ad104a1ee7cb027aba8b18": {
             "text": "Templates hinzuf\u00fcgen"
         },
-        "adf92855ccc9fe04707fd12688a17c59": {
-            "text": "Dieses Template wird von einer Seite verwendet"
-        },
         "d26c2f7eb253b0202c2769f3dd232d96": {
             "text": "Dieses Template wird von %d Seiten verwendet"
         },
@@ -835,6 +832,36 @@
         },
         "13138fdee141d39a065f3fe82c0e0676": {
             "text": "Label f\u00fcr Eigenschaft des Seitenname"
+        },
+        "c64518704ce0c0d5501a45763f464276": {
+            "text": "Nutzung"
+        },
+        "06c2cea18679d64399783748fa367bdd": {
+            "text": "Eins"
+        },
+        "b4a25e0860ab98f8476c6339abbb773b": {
+            "text": "nicht mehr erlaubt"
+        },
+        "ad1d924dc261c8945b07d271c9cd5888": {
+            "text": "Mit %s gekennzeichnete Templates m\u00fcssen ebenfalls konfiguriert werden um dieses Template als Elternseite zu erlauben. Klicken Sie auf ein beliebiges Template als Shortcut zur Konfiguration der erlaubten Elternseiten."
+        },
+        "81d8cfa67d7f3fa526cff71bd27238c5": {
+            "text": "Mit %s gekennzeichnete Templates sind bereits konfiguriert um dieses Template als Elternseite zu erlauben."
+        },
+        "fb3f093ab0572a059120f2c7c680da3c": {
+            "text": "Mit %s gekennzeichnete Templates m\u00fcssen ebenfalls konfiguriert werden um dieses Template f\u00fcr Kindseiten zu erlauben. Klicken Sie auf ein beliebiges Template als Shortcut zur Konfiguration der erlaubten Kindseiten."
+        },
+        "173fc4509c54323d4c0da3ffea41742c": {
+            "text": "Mit %s gekennzeichnete Templates sind bereits konfiguriert um dieses Template f\u00fcr Kindseiten zu erlauben."
+        },
+        "860024d803b29185e2cb90399cc73599": {
+            "text": "Dieses Template wird von %d Seite verwendet"
+        },
+        "9fa7e7b76dafb5ffcb0b9bfbba9a65fd": {
+            "text": "%d Seite"
+        },
+        "207ab96f9895f87f78f6c6162f323a4f": {
+            "text": "%d Seiten"
         }
     }
 }
