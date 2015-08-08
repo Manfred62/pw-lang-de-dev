@@ -38,11 +38,14 @@
         "8d36abbc1aa8f167970999175380a355": {
             "text": "%d neue Module gefunden: %s"
         },
-        "8e813e6a814fdd36b8dcb398cccdbce4": {
-            "text": "Neue Version von %d Modul gefunden:"
+        "f0116bd76230140a92cbd37cc524488e": {
+            "text": "wird beim n\u00e4chsten Laden des jeweiligen Moduls angewendet"
         },
-        "066de09025ba0f1f9afd2105b0e4316b": {
-            "text": "Neue Versionen von %d Modulen gefunden:"
+        "99cf7718c48f783d19e8c8b463a6e704": {
+            "text": "Neue Version von %d Modul gefunden"
+        },
+        "7cbf3b34133e54263a1242eb74a5008e": {
+            "text": "Neue Versionen von %d Modulen gefunden"
         }
     }
 }
