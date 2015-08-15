@@ -632,12 +632,6 @@
         "b14d306525e8d6e9927d577a59064048": {
             "text": "2. Das gew\u00e4hlte Eltern-Template muss dieses Template als ein f\u00fcr Unterseiten erlaubtes definiert haben."
         },
-        "b31e82dcc61dd6ba650389f38c6e154e": {
-            "text": "3. Es kann nur eine Instanz einer Seite dieses Eltern-Template im System nutzen."
-        },
-        "487b2fe79edc18261ed2e37e657c0b58": {
-            "text": "4. Das Admin-Theme muss dieses Feature unterst\u00fctzen."
-        },
         "bd1ab8d7a2147046de89d54d6d03f39d": {
             "text": "System"
         },
@@ -862,6 +856,9 @@
         },
         "207ab96f9895f87f78f6c6162f323a4f": {
             "text": "%d Seiten"
+        },
+        "9351544406147e2f9a081ce279e7f687": {
+            "text": "Um die Reihenfolge der Templates im Shortcut Men\u00fc zu bearbeiten, bitte in den [PageAdd Moduleinstellungen](%s) nachsehen."
         }
     }
 }

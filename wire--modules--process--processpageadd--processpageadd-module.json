@@ -61,6 +61,15 @@
         },
         "b0324fdebb63032317bba7c66bff89fc": {
             "text": "Im Moment gibt es keine Templates mit definierten Eltern\/Kind Beziehungen um hier den \"Neu hinzuf\u00fcgen\" Shortcut anzuzeigen. Um dies zu konfigurieren, ein beliebiges Template (Verwaltung > Templates) bearbeiten und auf den \"Familie\" Tab klicken."
+        },
+        "e0f8c45404ac3252900cc035530cd905": {
+            "text": "Sortierreihenfolge des Template Shortcuts"
+        },
+        "2bfb8d39e3cb1a09aef821058269a747": {
+            "text": "Zum \u00c4ndern der Reihenfolge der \"Neu hinzuf\u00fcgen\" Shortcuts die Optionen per Drag and Drop in die gew\u00fcnschte Reihenfolge verschieben."
+        },
+        "557335482992652fdefe6cc17332688f": {
+            "text": "Um Templates f\u00fcr diese Shortcuts hinzuzuf\u00fcgen oder zu entfernen, bitte unter den Template-Einstellungen im Familie-Tab schauen."
         }
     }
 }
