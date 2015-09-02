@@ -859,6 +859,42 @@
         },
         "9351544406147e2f9a081ce279e7f687": {
             "text": "Um die Reihenfolge der Templates im Shortcut Men\u00fc zu bearbeiten, bitte in den [PageAdd Moduleinstellungen](%s) nachsehen."
+        },
+        "8b961334d86b2e4afdb29a825b7537f5": {
+            "text": "Hinweis: die Optionen bearbeiten\/anlegen\/hinzuf\u00fcgen sind deaktiviert f\u00fcr Benutzerrollen, welche derzeit keine page-edit Berechtigung haben."
+        },
+        "34aeb942ccc5860ae5af2885bf346a5d": {
+            "text": "Zus\u00e4tzliche Berechtigungen zum Bearbeiten und \u00dcberschreibungen"
+        },
+        "a1066ecb03f6d2dfa02c658ba45dc08a": {
+            "text": "Berechtigung zu Benutzerrolle hinzuf\u00fcgen"
+        },
+        "3d7582ad0b178e43f075e25248efdc12": {
+            "text": "Berechtigung zu Benutzerrolle zur\u00fcck nehmen"
+        },
+        "ba9f2559a3fd0e360488de130ff7ab73": {
+            "text": "Erlaube Vererbung des Zugriffs zum Bearbeiten an Kindseiten?"
+        },
+        "ef4a1860dd8847a43619b6ca5f26e638": {
+            "text": "Standardm\u00e4\u00dfig werden alle Einstellungen des Zugriffs f\u00fcr dieses Template durch den Seitenbaum vererbt, bis eine Seite mit einem anderen Template mit anderen Zugriffen dies \u00fcberschreibt."
+        },
+        "6aee0c8c870a84f930c97c2eb1427c8d": {
+            "text": "W\u00e4hlen Sie hier die Option \"Nein\", wenn das Vererben des Zugriffs zum Bearbeiten zwischen den Seiten, welche dieses Template nutzen, verhindert werden soll. Der Zugriff zum Ansehen wird weiterhin vererbt."
+        },
+        "2678dd0fb63b2adfb38fe14f66d6c6b5": {
+            "text": "Erlaube Vererbung des Zugriffs zum Bearbeiten an Kindseiten, welche nicht durch Zugriff kontrolliert werden."
+        },
+        "1dee747820c27fbdc81384045a54c8c3": {
+            "text": "Nur Seiten mit diesem Template den Zugriff zum Bearbeiten gew\u00e4hren."
+        },
+        "b50d7f1673d8d8694f84094c093718df": {
+            "text": "Optionen werden im Format \"role: permission\" angezeigt. Beschreibungen zu den jeweiligen Berechtigungen finden Sie in der [Referenz](%s)."
+        },
+        "5cd4a0ea4859ae8a1371ded392cfff3b": {
+            "text": "Wahlweise Berechtigungen f\u00fcr Benutzerrollen, welche durch eine Seite mit diesem Template angefordert werden (oder den Zugriff geerbt haben), hinzuf\u00fcgen oder zur\u00fccknehmen."
+        },
+        "f0ec91a2ccc29fee4de702e940b186a8": {
+            "text": "Die hier verf\u00fcgbaren Optionen sind festgelegt durch Ihre obige Auswahl f\u00fcr \"Seiten bearbeiten\". Daher sollten Sie dieses Template erst speichern und dann, nach den \u00c4nderungen der Rollen oben unter \"Seiten bearbeiten\", hierher zur\u00fcckkehren."
         }
     }
 }
