@@ -57,7 +57,7 @@
             "text": "Zeigt an, dass die Berechtigung f\u00fcr Benutzerrollen optional in den Einstellungen des Template-Zugriffs hinzugef\u00fcgt oder zur\u00fcckgenommen werden kann. Das Markieren der Berechtigung gibt diese f\u00fcr alle bearbeitbaren Templates frei. Falls Sie einer Benutzerrolle nur eine bestimmte Berechtigung f\u00fcr Seiten mit spezifischen Template(s) zuordnen m\u00f6chten, sollten Sie dies hier nicht markieren und stattdessen die Auswahl im Tab \"Zugriff\" eines Templates treffen."
         },
         "efc30c4ed12a9e95e4fad5ae9be115fb": {
-            "text": "Zeigt ein Template an, welches die Berechtigung hinzuf\u00fcgt. Hier klicken um ein Fenster zu den Zugriff-Einstellungen des Templates zu \u00f6ffnen. Falls der Templatename %s hat, ist die Berechtigung dem Template hinzugef\u00fcgt, wird aber durch Ihre Auswahl hier \u00fcberschrieben."
+            "text": "Zeigt ein Template an, welches die Berechtigung hinzuf\u00fcgt. Hier klicken um ein Fenster zu den Zugriff-Einstellungen des Templates zu \u00f6ffnen. Falls der Templatename %s ist, ist die Berechtigung dem Template hinzugef\u00fcgt, wird aber durch Ihre Auswahl hier \u00fcberschrieben."
         },
         "dce4a957c0c6225be564be146d71b245": {
             "text": "Das gleiche wie oben abgesehen davon, dass die Berechtigung durch dieses Template zur\u00fcckgenommen wird (anstatt hinzugef\u00fcgt)."
