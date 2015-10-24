@@ -1,0 +1,237 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeComments\/FieldtypeComments.module",
+    "textdomain": "wire--modules--fieldtype--fieldtypecomments--fieldtypecomments-module",
+    "translations": {
+        "8413c683b4b27cc3f4dbd4c90329d8ba": {
+            "text": "Kommentare (Comments)"
+        },
+        "b9f5c797ebbf55adccdd8539a65a0241": {
+            "text": "Deaktiviert"
+        },
+        "0c6e8a761530efc7ecfe773a5b5a6f7e": {
+            "text": "Kein - Kommentar sofort ver\u00f6ffentlicht"
+        },
+        "4f214f3246f03a94773427de4f2e7699": {
+            "text": "Alle - Alle Kommentare m\u00fcssen von einem Nutzer mit Berechtigung best\u00e4tigt werden"
+        },
+        "9bf3d3d959883d38b84f1990340bff84": {
+            "text": "Sortiere absteigend (Neue zuerst)?"
+        },
+        "b7f00c1afdf69f32c12c300c02ac1da7": {
+            "text": "Weiterleiten nach Ver\u00f6ffentlichung des Kommentars?"
+        },
+        "bf31492fe5d4821b483bc7cb8cfe07a3": {
+            "text": "Anzahl Tage nach welchen Spam gel\u00f6scht wird"
+        },
+        "cba07fe99979c9f01d9c61a39aae3045": {
+            "text": "Website Feld in Kommentar Formular anzeigen?"
+        },
+        "bb28b3686215b773129c8259cf0e6525": {
+            "text": "Wenn markiert, enth\u00e4lt das Formular auch ein Feld f\u00fcr die Website."
+        },
+        "0ad4c8b2b43eb0c8cfa21dd7571401b5": {
+            "text": "E-Mail Benachrichtigung auf Spam senden?"
+        },
+        "a4949d12f429ca4af2feb4e30c1e84e4": {
+            "text": "Gravatar nutzen?"
+        },
+        "694c233e3c1cf5b97224bd5fcbebb340": {
+            "text": "Akismet Spam Filter nutzen?"
+        },
+        "d3a76eec189143c6945282d37bd81bb5": {
+            "text": "Nur Neue - Nur Kommentare von Nutzern ohne vorherige Best\u00e4tigung m\u00fcssen best\u00e4tigt werden"
+        },
+        "0c9743be855a9e62ab36d4d4eb321932": {
+            "text": "Standardm\u00e4\u00dfig werden Kommentare chronologisch sortiert (alt zu neu). Zum \u00e4ndern der Sortierrichtung hier markieren."
+        },
+        "72fe450a750c9f11bf0531e5395e6e75": {
+            "text": "Nach Anzahl der angezeigten Tage wird Spam automatisch gel\u00f6scht."
+        },
+        "a27c92ebebda4931039636893b5c716d": {
+            "text": "Feld welches Kommentare von Nutzern zu einer einzelnen Seite speichert."
+        },
+        "cea2870f162b18b9ab95c8c84da6d05a": {
+            "text": "Wenn markiert, wird ProcessWire eine Weiterleitung (redirect) nach Ver\u00f6ffentlichung des Kommentars ausf\u00fchren, um doppelte Meldungen zu verhindern. Empfohlen."
+        },
+        "ec8fbd0794fa6fafb9061431f9bffa03": {
+            "text": "Wenn markiert, wird ProcessWire auch bei Spam eine E-Mail Benachrichtigung senden."
+        },
+        "b70aad8c6cb77fde247be00630d7f5ef": {
+            "text": "G: Geeignet f\u00fcr alle Webseiten bzw. Zielgruppen."
+        },
+        "e9f6051c655ca4a6773af3f2d8458815": {
+            "text": "Beschreibung der [Gravatar](https:\/\/en.gravatar.com\/site\/implement\/images\/) Bewertungen."
+        },
+        "13df57b389c6175fd742098a67385895": {
+            "text": "Dieser Service wird automatisch den meisten Spam identifizieren. Vor Verwendung bitte sicher stellen, dass ein Akismet Schl\u00fcssel unter Module > Comment Filter: Akismet eingetragen ist."
+        },
+        "c5fce56aee82d2bc007cbf213998945b": {
+            "text": "Dieser Service stellt eine Avatar Grafik zu jedem Kommentar bereit (individuell zur E-Mail Adresse). Zum aktivieren bitte h\u00f6chste Gravatar Bewertung w\u00e4hlen. Diese entsprechen in etwa Filmbewertungen, wo G familienfreundlich ist und X nicht."
+        },
+        "8e25a98f71c3244890fa8ecf2230fe18": {
+            "text": "PG: Kann unh\u00f6fliche Gesten, provokativ gekleidete Personen, einfache Schimpfw\u00f6rter oder leichte Gewalt enthalten."
+        },
+        "2900074213d129e33d5d4b6e74076f29": {
+            "text": "R: Kann solche Dinge wie Obz\u00f6nit\u00e4ten, grobe Gewalt, Nacktdarstellung oder Drogengebrauch enthalten."
+        },
+        "043cab853d189bb505d101c3c7ab3176": {
+            "text": "X: Kann Hardcore Sexbilder oder extreme Gewaltdarstellung enthalten."
+        },
+        "e90234905413e689d67361b8f618b63f": {
+            "text": "Unauff\u00e4llig speichern?"
+        },
+        "d2c1e7bd67d4253ff76376ed718cf94f": {
+            "text": "Wenn markiert, wird beim hinzuf\u00fcgen eines Kommentars der Zeitpunkt der Seiten\u00e4nderung und der Benutzer nicht aktualisiert."
+        },
+        "152cae5f743b4ea655ef70fab6684593": {
+            "text": "Art der Benachrichtigung"
+        },
+        "1df95d9b624496ecb2f4158676c98825": {
+            "text": "Keine Benachrichtigungen senden"
+        },
+        "eac16a1e6e640d0fd649262cc154287d": {
+            "text": "Benachrichtigungen senden an bestimmte E-Mail Adresse"
+        },
+        "56c6193a67167dcdd8befdc1cf3f7958": {
+            "text": "Benachrichtigungen senden an Benutzer, welcher diese Seite erstellt hat"
+        },
+        "176686fd5ea38cce85007c58bc91861a": {
+            "text": "Benachrichtigungen senden an bestimmten Benutzer"
+        },
+        "9e6530a34353d7610fd5455767b28df4": {
+            "text": "Antwort-Tiefe"
+        },
+        "1f33bbe656fa140ce52347fb0af13a18": {
+            "text": "W\u00e4hlen Sie 0 f\u00fcr traditionelle chronologische Anzeige der Kommentare. F\u00fcr eine nach Themen gruppierte Anzeige der Kommentare (Antworten erscheinen unter dem jeweils beantworteten Kommentar) w\u00e4hlen Sie die maximal erlaubte Tiefe f\u00fcr Antworten (0 bis 4 wird empfohlen)."
+        },
+        "82829c5912f395b029a87c565359835c": {
+            "text": "Text Formatierer"
+        },
+        "53a682f62e65f496a659d3a12c754f75": {
+            "text": "W\u00e4hlen Sie optional einen oder mehrere Text-Formatierer zur Anwendung auf den Kommentartext in der gew\u00fcnschten Reihenfolge. Falls Sie keinen ausw\u00e4hlen, werden die Entit\u00e4ten im Text kodiert, Newlines werden zu <br> Tags konvertiert und die Ausgabe erfolgt in einem <p> Tag."
+        },
+        "81958f1863ae9ebb74b7a23cbf0dbd78": {
+            "text": "Warnung: w\u00e4hlen Sie nur Text-Formatierer welche f\u00fcr die Eingaben von anonymen Benutzern sicher bzw. geeignet sind, wie z.B. Entity Encoder (Core) oder Textile Restricted (3. Anbieter). Falls Sie sich nicht sicher sind, w\u00e4hlen Sie hier nichts aus. Die falsche Auswahl kann ein Sicherheitsproblem darstellen."
+        },
+        "e2ee73419f58949b9fdfb97f23a8a6ac": {
+            "text": "PHP Code zur Ausgabe von Kommentaren"
+        },
+        "2b961475041b8a085eae4ed1a597f76a": {
+            "text": "CSS f\u00fcr die Ausgabe der Kommentare im Frontend"
+        },
+        "4a08db526853d7aa35400a97c968e60d": {
+            "text": "JS f\u00fcr die Ausgabe der Kommentare im Frontend"
+        },
+        "309ccca9b8ae5408ee15a28c2bd2c9c2": {
+            "text": "Dieser Bereich wird Sie bei der Formatierung der Kommentare, im Frontend der Webseite, unterst\u00fctzen. Hier ist alles optional."
+        },
+        "b39a035a995fc6597c8eb942210d1527": {
+            "text": "Verhalten"
+        },
+        "c98106d2a3b2a0a14016f73894f59d10": {
+            "text": "Kommentar Moderation"
+        },
+        "18800239150e923984ade45f5e961fbd": {
+            "text": "Hiermit wird festgelegt wann ein neuer Kommentar auf der Webseite erscheint."
+        },
+        "a274f4d4670213a9045ce258c6c56b80": {
+            "text": "Benachrichtigungen"
+        },
+        "e3b1a956fff16a2f9b781479bcbea925": {
+            "text": "E-Mail f\u00fcr Benachrichtigung des Admin"
+        },
+        "f895a3cb718c7d7cacdf08e19c72a19b": {
+            "text": "E-Mail Adresse, welche bei neuem Kommentar benachrichtigt wird. Mehrere E-Mail Adressen mit Komma oder Leerzeichen trennen."
+        },
+        "e793b132f67e3437dae254ad00e2cc48": {
+            "text": "Benutzer, welche diese E-Mail erhalten, haben die M\u00f6glichkeit Beitr\u00e4ge direkt aus Links in der E-Mail zu best\u00e4tigen oder zu verwerfen."
+        },
+        "abf48974ca61ec74f073f2359c29da03": {
+            "text": "Zus\u00e4tzlich zu (oder anstatt) E-Mail Adressen k\u00f6nnen Sie auch eine oder mehrere der folgenden Optionen nutzen:"
+        },
+        "d0ffa91c19a6c97eac905834065a48a4": {
+            "text": "1. Geben Sie **user:karen** ein, um einen bestimmten Benutzer anzuschreiben. Ersetzen Sie \"karen\" mit dem Namen des gew\u00fcnschten Benutzers."
+        },
+        "e703c4cbaf0b1030f389f7a3f4c91f34": {
+            "text": "2. Geben Sie **field:email** ein, um die E-Mail Adresse aus einem Feld der Seite auszulesen. Ersetzen Sie \"email\" mit dem Namen des Feldes welches die E-Mail Adresse enth\u00e4lt."
+        },
+        "0cf8830f9d1aaf42ad9e178f9af4f3d0": {
+            "text": "3. Geben Sie **123:email** ein, um die E-Mail Adresse aus der ID und eines Feldnamens einer vorhandenen Seite auszulesen. Ersetzen Sie \"123\" mit der ID der Seite und \"email\" mit dem Namen des Feldes welches die E-Mail Adresse enth\u00e4lt."
+        },
+        "f6fdd0b4b152fc4fb6fa144eb7718873": {
+            "text": "Benachrichtigungen zu E-Mails"
+        },
+        "a5356041796dfb51e1131f9557cf7225": {
+            "text": "Optionale E-Mail Adresse als Absender der Benachrichtigung. Bitte leer lassen wenn die Standard E-Mail des Servers verwendet werden soll."
+        },
+        "031de71d8bede5de985c354bbd23cdc6": {
+            "text": "E-Mail Benachrichtigungen an Kommentierende erlauben?"
+        },
+        "dc8c7869896eed885ca7b7cc73de8e0a": {
+            "text": "Diese Option erm\u00f6glicht jedem, welcher einen Kommentar abgibt, E-Mail Benachrichtigungen zu neuen Kommentaren zu erhalten."
+        },
+        "0ad051f48ed2ca988a4b60689eb13ad5": {
+            "text": "Benutzer erhalten E-Mail Benachrichtigungen nur auf Antworten zu eigenen Kommentaren"
+        },
+        "4795eaf7300ae848d67ca8c64cfa357f": {
+            "text": "Benutzer erhalten E-Mail Benachrichtigungen f\u00fcr alle neuen Kommentare auf der Seite"
+        },
+        "29c2c02a361c9d7028472e5d92cd4a54": {
+            "text": "Ausgabe"
+        },
+        "b3dc4b8696a26f0852afc3df1785ce24": {
+            "text": "Datum\/Zeit Format (f\u00fcr die Kommentar-Liste)"
+        },
+        "9fbc91b8ace5ac4afdc754d6d81d1f28": {
+            "text": "Bewertung von Kommentaren erlauben?"
+        },
+        "3ffa920a9c00477904f187e62f9d8582": {
+            "text": "Die Kommentar-Bewertung erlaubt es Besuchern, die Kommentare auf- oder abzuwerten. Die Anzahl der Bewertungen wird neben jedem Kommentar angezeigt. Es wird nur eine Auf- und\/oder Abwertung pro Kommentar, pro IP-Adresse innerhalb einer Stunde erlaubt."
+        },
+        "2d020e5cbf014a734c83323e430afce0": {
+            "text": "Bewertung aus"
+        },
+        "e344d6ca196c888a521047effab607b3": {
+            "text": "Erlaube aufwerten"
+        },
+        "3404fab8f99ccde53b123699711e6b6c": {
+            "text": "Erlaube auf- und abwerten"
+        },
+        "b672f52ade975e864ae6b58722c03689": {
+            "text": "Implementierung"
+        },
+        "cf5bd74bd24d341a63cdcf36fba20dbb": {
+            "text": "Sie haben diesen Kommentar bereits bewertet."
+        },
+        "511c09f7e853bcc074d29ba36a8da7f7": {
+            "text": "Fehler beim bewerten"
+        },
+        "ea706988dcb6ea169518eb97da49df9d": {
+            "text": "Geben Sie das gew\u00fcnschte Format zu Datum\/Zeit f\u00fcr die Ausgabe der Kommentar-Liste ein. Es kann ein PHP [date](http:\/\/php.net\/manual\/de\/function.date.php) oder [strftime](http:\/\/php.net\/manual\/de\/function.strftime.php) Format genutzt werden. Es kann auch \"relative\" f\u00fcr ein relatives Datums-Format verwendet werden."
+        },
+        "c0cf19f012781de14679b0d857fe4cbd": {
+            "text": "Falls ein Cache f\u00fcr die Ausgabe genutzt wird, sollte per Konfiguration der Cache umgangen werden wenn die GET Variable \"comment_success\" vorhanden ist."
+        },
+        "be4676f05d7147b99e5addd2b27b6889": {
+            "text": "4. Geben Sie \/pfad\/zur\/seite:email ein, um die E-Mail Adresse aus dem Pfad und eines Feldnamens einer vorhandenen Seite auszulesen. Ersetzen Sie \"\/pfad\/zur\/seite\" mit dem korrekten Pfad und \"email\" mit dem Namen des Feldes welches die E-Mail Adresse enth\u00e4lt."
+        },
+        "40e8db84e220fe9c816eb334d1b42a70": {
+            "text": "Mit Sternen bewerten?"
+        },
+        "00837cdf48d92331ec9c355847ed9ef5": {
+            "text": "Bewertung mit Sternen erm\u00f6glicht dem Kommentierenden das betreffende Thema auf einer Skala von 1 bis 5 Sternen zu bewerten."
+        },
+        "924daa0b046449bd4fb99af3c97b5f2b": {
+            "text": "\u00c4nderung der Ausgabe des Standard-Sterns (HTML kann auch verwendet werden):"
+        },
+        "359310b90581d6b9baa3cdccc10607b2": {
+            "text": "Ja (optional mit Sternen bewerten)"
+        },
+        "806e88271605e15a20e9d6d47673f42e": {
+            "text": "Ja (mit Sternen bewerten ist Pflicht)"
+        },
+        "1f2f44c370f66e4d06d25042e93e39c1": {
+            "text": "Deaktiviert"
+        }
+    }
+}
