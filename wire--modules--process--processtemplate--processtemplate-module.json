@@ -659,9 +659,6 @@
         "92fe79a8aa59b037f5f6e2b43f89fea8": {
             "text": "Namensformat f\u00fcr Unterseiten"
         },
-        "27dd547b53bb1b3c67c345f984747010": {
-            "text": "Zum deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein zur automatischen Generierung des Namens vom Titel der Seite. Weitere Optionen mit Datumsformaten sind ebenfalls m\u00f6glich. [Mehr](http:\/\/processwire.com\/api\/modules\/process-template\/)"
-        },
         "5cf485ae4559df60232a5ff0f87783cb": {
             "text": "Legen Sie optional ein Format f\u00fcr die Seiten-Namen bei neu hinzugef\u00fcgten Unterseiten fest. Dies erm\u00f6glicht den Schritt \"Seite hinzuf\u00fcgen\" zu \u00fcberspringen. Voraussetzung ist, dass ein (1) einziges Template oben unter \"Erlaubte Template(s) f\u00fcr Unterseiten\" ausgew\u00e4hlt wird."
         },
@@ -895,6 +892,45 @@
         },
         "f0ec91a2ccc29fee4de702e940b186a8": {
             "text": "Die hier verf\u00fcgbaren Optionen sind festgelegt durch Ihre obige Auswahl f\u00fcr \"Seiten bearbeiten\". Daher sollten Sie dieses Template erst speichern und dann, nach den \u00c4nderungen der Rollen oben unter \"Seiten bearbeiten\", hierher zur\u00fcckkehren."
+        },
+        "975bafff7904e0b6768fc9b2d0a11829": {
+            "text": "Zum deaktivieren leer lassen. Geben Sie \"title\" (ohne Anf\u00fchrungszeichen) ein zur automatischen Generierung des Namens vom Titel der Seite. Weitere Optionen mit Datumsformaten sind ebenfalls m\u00f6glich. [Mehr](https:\/\/processwire.com\/api\/modules\/process-template\/)"
+        },
+        "c5abeb6189c82d5b9d81bbcac604408b": {
+            "text": "="
+        },
+        "9278bd133a7f5cd50f24a5a253f8ac9b": {
+            "text": "="
+        },
+        "dc105ac52c237f9f09c74b0767f64f74": {
+            "text": "="
+        },
+        "7df96b18c230f90ada0a9e2307226338": {
+            "text": "="
+        },
+        "6855bfdf44496210543dabeb8f88a1c0": {
+            "text": "="
+        },
+        "2da33125162e59b2ff307fb050040ead": {
+            "text": "="
+        },
+        "0934f0c8ef59c46cd3f23477dc242642": {
+            "text": "="
+        },
+        "2b76a5ea71d797b2e9b2b4a0c0eeaf29": {
+            "text": "="
+        },
+        "21ddd66d87bebbaaf6bba5319e5b7f97": {
+            "text": "="
+        },
+        "ff2e33d2066471fd192bf41c39322cd1": {
+            "text": "="
+        },
+        "08b4ed72628b718cbe3158eb2eaf10a2": {
+            "text": "="
+        },
+        "2a138a3c1a54958a39f65b80e666b643": {
+            "text": "="
         }
     }
 }
